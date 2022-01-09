@@ -15,7 +15,8 @@
 ### Step 3:Image label-er loads all the images and directs them further to be put in bounding box / anchor box. 
 ### Step 4: All the images with labels and bounding box are saved and imported in the MATLAB workspace. 
 ### Step 5: Resize the images to 224x224. 
-### Step 6:Specify the number of classes - 3 i.e.’Red’,’Green’ and ’Yellow’. Step 7:Use the residual learning framework to ease the training of these networks.
+### Step 6:Specify the number of classes - 3 i.e.’Red’,’Green’ and ’Yellow’.
+### Step 7:Use the residual learning framework to ease the training of these networks.
 ### Step 8:Load the YOLO v2 object detection network. 
 ### Step 9: The model is trained for the given dataset
 
