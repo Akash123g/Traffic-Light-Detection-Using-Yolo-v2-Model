@@ -1,5 +1,13 @@
 # Traffic-Light-Detection-Using-Yolo-v2-Model
 
+
+### Load newfinal.m to matlab
+### place all other files in current folder(Left side of matlab window)
+### For Bounding Boxes, Type 'imageLabeller' in command window
+### In imageLabeler window put Bounding Boxes to all your images
+### And give bb.mat as your file name.
+
+
 ## Training Phase 
 
 ### Step 1: Take input dataset. 
